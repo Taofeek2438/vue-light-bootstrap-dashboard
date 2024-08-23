@@ -9,10 +9,7 @@
         </ul>
       </nav>
       <div class="copyright text-center">
-        &copy; Coded with
-        <i class="fa fa-heart heart"></i> by
-        <a href="https://binarcode.com" target="_blank">BinarCode</a>.
-        Designed by <a href="https://www.creative-tim.com/?ref=pdf-vuejs" target="_blank">Creative Tim</a>.
+        © 2024 FirstTrust Mortgage Bank Plc. RC 196748. All Rights Reserved.
       </div>
     </div>
   </footer>
