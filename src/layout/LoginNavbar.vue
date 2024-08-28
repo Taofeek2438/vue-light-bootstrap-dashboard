@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-lg">
       <div class="container-fluid">
-        <img class="logo" src="img/favicon.svg" alt="">
+        <img class="logo" src="img/fticon.svg" alt="">
         <a class="navbar-brand" href="#">ADMIN SHPERE</a>
       </div>
     </nav>

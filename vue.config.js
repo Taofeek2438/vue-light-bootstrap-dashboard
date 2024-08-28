@@ -31,5 +31,15 @@ module.exports = {
   css: {
     // Enable CSS source maps.
     sourceMap: process.env.NODE_ENV !== 'production'
-  }
+  },
+  // Add the proxy here
+  devServer: {
+    proxy: {
+      '/api': {
+        target: 'http://localhost:3000',
+        changeOrigin: true,
+        pathRewrite: { '^/api': '' },
+      },
+    },
+  },
 };
